@@ -21,4 +21,4 @@ requires:
   Mojolicious: '5.0'
 resources:
   repository: https://github.com/bduggan/Mojolicious-Plugin-AutoParams.git
-version: '0.01'
+version: '0.02'
